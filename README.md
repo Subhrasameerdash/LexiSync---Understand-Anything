@@ -32,7 +32,7 @@ LexiSync is a document-grounded AI assistant that allows you to:
 
 ## Architecture
 
-![architecture-diagram](assets/flow-diagram.jpg)
+![architecture-diagram](assets/flow-diagram.png)
 
 ## Data Flow
 1. Document Ingestion: User uploads PDF, audio, video, text, or web URL
