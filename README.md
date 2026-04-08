@@ -1,4 +1,4 @@
-# LexiSync
+# LexiSync - Understand Anything
 In this project we build an open-source implementation of Google's NotebookLM that grounds AI responses in your documents with accurate citations. Built with modern AI technologies including RAG (Retrieval-Augmented Generation), vector databases, and conversational memory.
 
 ## Overview
